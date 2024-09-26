@@ -2,6 +2,17 @@
 
 This project is a simple **Library Management System** written in Java. The system allows users to perform basic library operations such as adding books, borrowing books, returning books, and viewing available books. The project follows **Test-Driven Development (TDD)**, with unit tests written using **JUnit 5** to ensure functionality.
 
+## Requirements
+
+* JDK verison 21.0.4 or any version
+
+## Installation
+
+1. Clone the repository: `git clone https://github.com/your-username/library-management-system.git`
+2. Change into the repository directory: `cd library-management-system`
+3. Run the tests: `python -m unittest test_library.py`
+
+
 ## Features
 
 1. **Add Books**:
