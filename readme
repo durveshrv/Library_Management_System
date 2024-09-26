@@ -9,9 +9,7 @@ This project is a simple **Library Management System** written in Java. The syst
 ## Installation
 
 1. Clone the repository: `git clone https://github.com/your-username/library-management-system.git`
-2. Change into the repository directory: `cd library-management-system`
-3. Run the tests: `python -m unittest test_library.py`
-
+2. Install any java interpretor to run this project. (like: Intellij, Ecllipse, Netbeans).
 
 ## Features
 
